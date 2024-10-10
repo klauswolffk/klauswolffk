@@ -14,7 +14,7 @@
   #
 
 
-<img align="right" alt="" height="210px" src="./src/test.gif">
+<img align="right" alt="" height="200px" src="./src/test.gif">
 
 <h3 align="left">Connect with me!</h3>
 
