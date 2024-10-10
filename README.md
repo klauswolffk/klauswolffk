@@ -1,8 +1,8 @@
-## Olá, sou o Klaus Wolff
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=27A9F7&width=435&lines=Ol%C3%A1%2C+Sou+o+Klaus+Wolff!)](https://git.io/typing-svg)
 
-- 📚 Faculdade Uniritter - FAPA (Ciências da computação)
-- 📫 Contate-me no email: klauswolff2001@gmail.com
-- 🤔 Sua determinação é sua maior força.
+<p align="left">Atualmente sou Estudante de Ciências da Computação na Uniritter - Campus FAPA.
+  Me interesso bastante por FullStack e procuro sempre atualizar meus conhecimentos e buscar desafios na tecnologia, estou no meu 3º semestre da faculdade e cada vez mais
+  ficando obsecado pela área da Tecnologia. Atualmente minhas principais linguagens são HTML, CSS, JAVA e iniciando PYTHON.
 
 ![Klauswolffk GitHub stats](https://github-readme-stats.vercel.app/api?username=klauswolffk&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klauswolffk&langs_count=8&theme=radical)
